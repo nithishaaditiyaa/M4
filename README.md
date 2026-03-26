@@ -28,7 +28,8 @@ int main()
 ```
 ## OUTPUT
 
-![alt text](<left shift.png>)
+<img width="884" height="255" alt="Screenshot 2026-03-26 141911" src="https://github.com/user-attachments/assets/7dc67ea0-c127-4327-a4f8-420ee96df0cc" />
+
 
 ## RESULT
 Thus the program to perform the basic left shift operation for 44 integer number with 3 shifts has been executed successfully.
@@ -68,8 +69,8 @@ int main()
 ```
 ## OUTPUT
 
-![alt text](equal.png)
-![alt text](unequal.png)
+<img width="887" height="228" alt="Screenshot 2026-03-26 142737" src="https://github.com/user-attachments/assets/ccc9ef1d-3e77-46fc-a764-92015aa8f385" />
+
 
 ## RESULT
 
@@ -107,7 +108,8 @@ int main()
 ```
 ## OUTPUT
 
-![alt text](string.png)
+<img width="911" height="194" alt="Screenshot 2026-03-26 142943" src="https://github.com/user-attachments/assets/21f750f4-445d-494b-b48b-1be128252a9c" />
+
 
 ## RESULT
 Thus the program to convert the given string into lowercase has been executed successfully
@@ -148,7 +150,8 @@ int main()
 ```
 ## OUTPUT
 
-![alt text](<no of words.png>)
+<img width="886" height="188" alt="Screenshot 2026-03-26 143037" src="https://github.com/user-attachments/assets/d1330f67-8a65-415c-99ed-4c0a1f61c46a" />
+
 
 ## RESULT
 Thus the program to count the total number of words in a given string using do While loop has been executed successfully
@@ -209,8 +212,10 @@ int main()
 ```
 ## OUTPUT
 
- ![alt text](<same strings.png>)
-![alt text](<not same strings.png>)
+<img width="909" height="232" alt="Screenshot 2026-03-26 143205" src="https://github.com/user-attachments/assets/a635cb0a-a679-4906-a749-de0adedf7450" />
+<img width="894" height="228" alt="Screenshot 2026-03-26 143151" src="https://github.com/user-attachments/assets/d3b7afaf-b652-4659-b745-940e3c67ede1" />
+
+
 
 ## RESULT
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
